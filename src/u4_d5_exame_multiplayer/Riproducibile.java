@@ -10,4 +10,5 @@ public interface Riproducibile {
 
 	void diminuisciLuminosita();
 
+	
 }
